@@ -4,7 +4,7 @@
 
 ---
 
-![RIVORA](https://github.com/user-attachments/assets/5ea27744-8529-41ac-a705-127d9ec6ff55/RIVORA.gif)
+![RIVORA.gif](https://github.com/user-attachments/assets/5ea27744-8529-41ac-a705-127d9ec6ff55/RIVORA.gif)
 
 ---
 ## 🧠 About
@@ -33,7 +33,7 @@ Rivora emphasizes meaningful conversations through structured topic-based **Room
 - Comment threads for every Room
 - User profiles and account management
 - Explore and search for active Rooms
-- Real-time updates (if using Channels or WebSockets)
+- Real-time updates
 
 ---
 
