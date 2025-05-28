@@ -4,6 +4,9 @@
 
 ---
 
+https://github.com/user-attachments/assets/5ea27744-8529-41ac-a705-127d9ec6ff55
+
+---
 ## 🧠 About
 
 Rivora emphasizes meaningful conversations through structured topic-based **Rooms**. Each Room acts as a space for open discussion and collaboration. Users can:
