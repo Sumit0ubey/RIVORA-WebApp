@@ -50,6 +50,20 @@ python manage.py runserver
 ```
 
 ---
+## 📁 Project Structure
+
+```
+RIVORA-WebApp/
+├── Base/                 # Main Functionality
+├── contact/              # Support and contact
+├── RivoraWebApp/         # Project settings
+├── static/               # Static files (CSS, JS, images)
+├── templates/            # HTML templates
+├── manage.py             # Django management script
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+```
+---
 
 ## 📬 Contact
 
