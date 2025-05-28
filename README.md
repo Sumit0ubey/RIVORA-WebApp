@@ -40,8 +40,8 @@ Rivora emphasizes meaningful conversations through structured topic-based **Room
 ## 🧪 Installation
 
 ```bash
-git clone https://github.com/yourusername/rivora.git
-cd rivora
+git clone https://github.com/Sumit0ubey/RIVORA-WebApp/
+cd RivoraWebApp
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
