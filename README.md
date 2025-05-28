@@ -4,11 +4,7 @@
 
 ---
 
-
-https://github.com/user-attachments/assets/aa96262b-4117-43f9-b168-ef0168d806ab
-
-
-![ScreenRecording2025-01-30143858-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5ea27744-8529-41ac-a705-127d9ec6ff55)
+![Rivora Demo](https://github.com/user-attachments/assets/5ea27744-8529-41ac-a705-127d9ec6ff55)
 
 ---
 ## 🧠 About
