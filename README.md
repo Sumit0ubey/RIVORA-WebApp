@@ -18,8 +18,8 @@ Rivora emphasizes meaningful conversations through structured topic-based **Room
 ## ⚙️ Tech Stack
 
 - **Backend**: Django
-- **Frontend**: HTML/CSS + Django templates (or React/Vue if used)
-- **Database**: PostgreSQL / SQLite (depending on environment)
+- **Frontend**: HTML/CSS + Django templates
+- **Database**: PostgreSQL / SQLite
 - **Auth**: Django's built-in authentication system
 
 ---
@@ -47,7 +47,6 @@ python manage.py runserver
 ```
 
 ---
-
 
 ## 📬 Contact
 
