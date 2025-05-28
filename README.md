@@ -53,4 +53,4 @@ python manage.py runserver
 
 ## 📬 Contact
 
-For feedback or questions, reach out at [your-email@example.com](mailto:dubeysumit378@gmail.com).
+For feedback or questions, reach out at [Sumit Dubey](mailto:dubeysumit378@gmail.com).
