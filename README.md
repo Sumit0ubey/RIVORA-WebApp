@@ -4,7 +4,7 @@
 
 ---
 
-![RIVORA.gif](https://github.com/user-attachments/assets/5ea27744-8529-41ac-a705-127d9ec6ff55/RIVORA.gif)
+![RIVORA](https://github.com/user-attachments/assets/4c53f184-7be5-4dac-b0b5-ea74a25a8f5e)
 
 ---
 ## 🧠 About
