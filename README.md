@@ -39,15 +39,32 @@ Rivora emphasizes meaningful conversations through structured topic-based **Room
 
 ## 🧪 Installation
 
-```bash
-git clone https://github.com/Sumit0ubey/RIVORA-WebApp/
-cd RivoraWebApp
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-```
+1. **Clone the repository**:
+  ```bash
+  git clone https://github.com/Sumit0ubey/RIVORA-WebApp/
+  cd RivoraWebApp
+  ```
+
+2. **Create a virtual environment**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Apply migrations**:
+   ```bash
+   python manage.py migrate
+   ```
+
+5. **Run the development server**:
+   ```bash
+   python manage.py runserver
+   ```
 
 ---
 ## 📁 Project Structure
@@ -65,6 +82,21 @@ RIVORA-WebApp/
 ```
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+---
+
 ## 📬 Contact
 
-For feedback or questions, reach out at [Sumit Dubey](mailto:dubeysumit378@gmail.com).
+For any questions or feedback, feel free to reach out:
+
+- **Email**: [sumit.dubey20317@gmail.com](mailto:sumit.dubey20317@gmail.com)
+- **GitHub**: [Sumit0ubey](https://github.com/Sumit0ubey)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
