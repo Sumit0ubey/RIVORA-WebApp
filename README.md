@@ -4,7 +4,7 @@
 
 ---
 
-![RIVORA](https://github.com/user-attachments/assets/4c53f184-7be5-4dac-b0b5-ea74a25a8f5e)
+![RIVORA](https://github.com/user-attachments/assets/ebcf173c-e9c0-43f3-9b33-5f414fd497ea)
 
 ---
 ## 🧠 About
