@@ -4,7 +4,7 @@
 
 ---
 
-![Rivora Demo](https://github.com/user-attachments/assets/5ea27744-8529-41ac-a705-127d9ec6ff55)
+![https://github.com/user-attachments/assets/5ea27744-8529-41ac-a705-127d9ec6ff55](https://github.com/user-attachments/assets/5ea27744-8529-41ac-a705-127d9ec6ff55)
 
 ---
 ## 🧠 About
